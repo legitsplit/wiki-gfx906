@@ -1,0 +1,13 @@
+[book]
+title = "Wiki GFX906"
+author = ["Your Name"]
+description = "Documentation and wiki for gfx906 project"
+language = "en"
+multilingual = false
+src = "src"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/yourusername/wiki-gfx906"
+edit-url-template = "https://github.com/yourusername/wiki-gfx906/edit/main/{path}"
